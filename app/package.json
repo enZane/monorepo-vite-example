@@ -1,0 +1,13 @@
+{
+  "name": "@your-org/app",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "components-lib": "*",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
